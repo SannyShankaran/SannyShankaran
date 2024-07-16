@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SannyShankaran
 - 👀 I’m interested in learning new things in Data Science 
-- 🌱 I’m currently learning ABC'S of Generative AI 
+- 🌱 I’m currently learning ABC'S of MLOps & Generative AI 
 - 💞️ I’m looking to collaborate on any project that involves Neural Network or MLOps 
 - 📫 How to reach me - https://x.com/sannyshankaran
 - 😄 Pronouns: he/him
